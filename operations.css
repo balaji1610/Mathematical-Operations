@@ -1,0 +1,39 @@
+* {
+  background-color: #c8e6c9;
+}
+
+.number_operations {
+  margin-top: 250px;
+  margin-bottom: 250px;
+  margin-right: 2px;
+  margin-left: 2px;
+  border: 1px solid blueviolet;
+  padding: 15px 15px 9px 47px;
+}
+
+.answer_operations {
+  margin-top: 283px;
+  margin-bottom: 310px;
+  margin-right: 45px;
+  margin-left: 80px;
+  border: 1px solid #bd2130;
+  padding: 78px 15px 9px 47px;
+}
+
+.sumbit {
+  margin-left: 34px;
+}
+
+.add_answer {
+  color: black;
+}
+
+.pt {
+  padding-top: 20px;
+}
+
+.checkis {
+  border: 1px solid #bd2130;
+  padding: 20px;
+  color: black;
+}
