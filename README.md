@@ -1,7 +1,8 @@
-# Maths
+# Mathematical-Operations
+
 learn to Javascript Events
 
 
-Demo Link 
+#Live Demo
 
 https://eventsjs.netlify.app/
